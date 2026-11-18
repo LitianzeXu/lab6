@@ -1,0 +1,26 @@
+body{
+    background-color: #fff8ee;
+    color: #4b342e;
+}
+.navbar{
+    background-color: #f6DDe2;
+}
+
+.drawer{
+    background-color: #f6DDe2;
+}
+.card{
+    background-color: #fffcf7;
+    color: #4b342e
+}
+.accordion-header{
+    background-color: #f6DDe2;
+    color: #4b342e;
+}
+.accordion-body{
+    background-color: #f6DDe2;
+    color: #4b342e;
+}
+.btn-solid{
+    background-color: #a84461;
+}
